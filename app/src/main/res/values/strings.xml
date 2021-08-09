@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SendMessageActivity</string>
+    <string name="buttonName">Send Message</string>
+    <string name="hintName">Message...</string>
+</resources>
